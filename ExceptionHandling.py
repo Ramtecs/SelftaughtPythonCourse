@@ -22,21 +22,3 @@ except ValueError:
 else:
     print( a," was converted to integer" )
 
-'''output:
-C:\Users\code\PycharmProjects\SelftaughtPythonCourse\venv\Scripts\python.exe C:/Users/code/PycharmProjects/SelftaughtPythonCourse/SelftaughtPythonCourse/ExceptionHandling.py
-File created 2019-07-27 16:35:03.911052
-enter a number for variable 'a': word
-Error in data type, input for 'a' can only be numbers!
-
-Process finished with exit code 0
-
-output 2:
-
-C:\Users\code\PycharmProjects\SelftaughtPythonCourse\venv\Scripts\python.exe C:/Users/code/PycharmProjects/SelftaughtPythonCourse/SelftaughtPythonCourse/ExceptionHandling.py
-File created 2019-07-27 16:40:02.144858
-enter a number for variable 'a': 232322
-232322  was converted to integer
-
-Process finished with exit code 0
-
-'''
